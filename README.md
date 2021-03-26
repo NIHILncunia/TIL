@@ -31,6 +31,7 @@
     * **텍스트 관련 태그**
       * [제목 태그(h1~h6)](html/5-heading-tag.md)
       * [문단 태그(p)](html/5-paragraph-tag.md)
+      * [Visual Studio Code 사용하기](html/6-vscode-download.md) - 개발환경이 60% 완성되는 구간
   * [CSS](css.md)
   * [JavaScript](javascript.md)
 
