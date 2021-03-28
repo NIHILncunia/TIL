@@ -33,7 +33,8 @@
       * [제목 태그(h1~h6)](html/text/1-heading-tag.md)
       * [문단 태그(p)](html/text/2-paragraph-tag.md)
       * [정비 - Visual Studio Code 사용하기](html/6-vscode-download.md)
-      * [굵기와 기울기](html/text/3-bold-italic.md)
+      * [정비 - VSCode 추천 확장 프로그램](html/7-vscode-extension.md)
+      * [굵기와 기울기(b, strong, i, em)](html/text/3-bold-italic.md)
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
@@ -44,5 +45,5 @@
 ## 연락처
 혹시라도 이 TIL의 내용을 어딘가에 가져가고 싶다면 아래의 연락처 중에서 편한 수단을 선택해 연락주시면 답변 드리겠습니다. 혹은 제가 작성한 내용들 중에서 수정되었으면 더 자연스러울 것 같은 내용이나 잘못된 내용이 있으면 누구라도 좋으니 지적해주시면 정말 감사하겠습니다.
 
-* 이메일: [nihil\_ncunia@naver.com](mailto:nihil_ncunia@naver.com)
-* 인스타그램: [@nihil\_illust](https://www.instagram.com/nihil_illust/)
+* 이메일: [nihil_ncunia@naver.com](mailto:nihil_ncunia@naver.com)
+* 인스타그램: [@nihil_illust](https://www.instagram.com/nihil_illust/)
