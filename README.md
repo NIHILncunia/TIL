@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-01 00:20:00+09:00
+updatedAt: 2021-04-01 00:40:00+09:00
 ---
 
 # 개요
@@ -34,6 +34,7 @@ updatedAt: 2021-04-01 00:20:00+09:00
     * [정비 - 개발환경 구축](html/3-coding-environment.md)
     * [HTML의 기본적인 구조](html/4-html-default.md)
     * [시맨틱 태그](html/4-semantic-tags.md)
+    * [공간 분할 태그(div, span)](html/8-division-tags.md) - 작성중
     * **텍스트 관련 태그**
       * [제목 태그(h1~h6)](html/text/1-heading-tag.md)
       * [문단 태그(p)](html/text/2-paragraph-tag.md)
