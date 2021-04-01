@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-01 00:40:00+09:00
+updatedAt: 2021-04-01 13:30:00+09:00
 ---
 
 # 개요
@@ -19,12 +19,17 @@ updatedAt: 2021-04-01 00:40:00+09:00
 
 프로그래밍은 무엇이고 프로그래밍 언어는 무엇인지에 대해서는 아래의 **[시작하기 전에](intro/README.md)** 문서를 확인해보면 좋을 것 같다.
 
-중요한 것은 이것은 강의가 아니라는 점이다. 나와 함께 공부를 하는 일종의 스터디라고 생각하자.
+중요한 것은 이것은 강의가 아니라는 점이다. 나와 함께 공부를 하는 일종의 스터디라고 생각하자. 함께 공부를 한다는 생각으로 공부에 임하면 조금이라도 덜 지루할 것이다.
+
+사실 지루할 틈은 없을지도 모른다. 처음 프로그래밍을 배우는 사람은 복잡하다는 이유로 미칠 정도로 팔짝 뛰거나 새로운 세상에 대한 감탄으로 신기할테니 말이다.
 
 ---
 
 ## 목차
-* [시작하기 전에](intro/README.md)
+* **시작하기 전에**
+  * [프로그래밍과 프로그래밍 언어](intro/1-what-is-programing.md)
+  * [웹과 웹 프로그래밍](intro/2-what-is-web-programing.md)
+  * [목표의 중요성](intro/3-your-purpose.md)
 * **마크업 언어**
   * **HTML**
     * [개요](html/README.md)
@@ -34,7 +39,7 @@ updatedAt: 2021-04-01 00:40:00+09:00
     * [정비 - 개발환경 구축](html/3-coding-environment.md)
     * [HTML의 기본적인 구조](html/4-html-default.md)
     * [시맨틱 태그](html/4-semantic-tags.md)
-    * [공간 분할 태그(div, span)](html/8-division-tags.md) - 작성중
+    * [공간 분할 태그(div, span)](html/8-division-tags.md)
     * **텍스트 관련 태그**
       * [제목 태그(h1~h6)](html/text/1-heading-tag.md)
       * [문단 태그(p)](html/text/2-paragraph-tag.md)
