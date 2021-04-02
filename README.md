@@ -26,6 +26,8 @@ updatedAt: 2021-04-01 13:30:00+09:00
 ---
 
 ## 목차
+이 아래의 목차는 되도록이면 순차적으로 보는 것을 추천한다.
+
 * **시작하기 전에**
   * [프로그래밍과 프로그래밍 언어](intro/1-what-is-programing.md)
   * [웹과 웹 프로그래밍](intro/2-what-is-web-programing.md)
@@ -39,6 +41,7 @@ updatedAt: 2021-04-01 13:30:00+09:00
     * [정비 - 개발환경 구축](html/3-coding-environment.md)
     * [HTML의 기본적인 구조](html/4-html-default.md)
     * [시맨틱 태그](html/4-semantic-tags.md)
+    * [주석](html/9-comment.md)
     * [공간 분할 태그(div, span)](html/8-division-tags.md)
     * **텍스트 관련 태그**
       * [제목 태그(h1~h6)](html/text/1-heading-tag.md)
@@ -46,6 +49,7 @@ updatedAt: 2021-04-01 13:30:00+09:00
       * [정비 - Visual Studio Code 사용하기](html/6-vscode-download.md)
       * [정비 - VSCode 추천 확장 프로그램](html/7-vscode-extension.md)
       * [굵기와 기울기(b, strong, i, em)](html/text/3-bold-italic.md)
+      * [개행 태그(br)](html/text/4-br-tag.md)
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
