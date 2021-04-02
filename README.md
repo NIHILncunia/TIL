@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-01 13:30:00+09:00
+updatedAt: 2021-04-02 21:00:00+09:00
 ---
 
 # 개요
@@ -48,9 +48,11 @@ updatedAt: 2021-04-01 13:30:00+09:00
       * [문단 태그(p)](html/text/2-paragraph-tag.md)
       * [정비 - Visual Studio Code 사용하기](html/6-vscode-download.md)
       * [정비 - VSCode 추천 확장 프로그램](html/7-vscode-extension.md)
-      * [굵기와 기울기(b, strong, i, em)](html/text/3-bold-italic.md)
+      * [굵기와 기울기 태그(b, strong, i, em)](html/text/3-bold-italic.md)
       * [개행 태그(br)](html/text/4-br-tag.md)
-      * [윗첨자와 아랫첨자(sup, sub)](html/text/5-sup-and-sub.md)
+      * [윗첨자와 아랫첨자 태그(sup, sub)](html/text/5-sup-and-sub.md)
+      * [텍스트의 추가, 제외 태그(ins, del)](html/text/6-ins-and-del.md)
+      * [취소선과 밑줄 태그(s, u)](html/text/7-line-tags.md) - 작성중
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
