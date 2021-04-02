@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-02 21:00:00+09:00
+updatedAt: 2021-04-03 00:40:00+09:00
 ---
 
 # 개요
@@ -52,7 +52,13 @@ updatedAt: 2021-04-02 21:00:00+09:00
       * [개행 태그(br)](html/text/4-br-tag.md)
       * [윗첨자와 아랫첨자 태그(sup, sub)](html/text/5-sup-and-sub.md)
       * [텍스트의 추가, 제외 태그(ins, del)](html/text/6-ins-and-del.md)
-      * [취소선과 밑줄 태그(s, u)](html/text/7-line-tags.md) - 작성중
+      * [취소선과 밑줄 태그(s, u)](html/text/7-line-tags.md)
+      * [인용 태그(q, blockquote)]() - 미작성
+      * [마크 태그(mark)]() - 미작성
+      * [스몰 태그(small)]() - 미작성
+      * [code 태그]() - 미작성
+      * [pre 태그]() - 미작성
+      * [가로줄 태그(hr)]() - 미작성
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
