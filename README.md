@@ -50,6 +50,7 @@ updatedAt: 2021-04-01 13:30:00+09:00
       * [정비 - VSCode 추천 확장 프로그램](html/7-vscode-extension.md)
       * [굵기와 기울기(b, strong, i, em)](html/text/3-bold-italic.md)
       * [개행 태그(br)](html/text/4-br-tag.md)
+      * [윗첨자와 아랫첨자(sup, sub)](html/text/5-sup-and-sub.md)
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
