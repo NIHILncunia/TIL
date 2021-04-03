@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-03 00:40:00+09:00
+updatedAt: 2021-04-03 16:50:00+09:00
 ---
 
 # 개요
@@ -26,7 +26,9 @@ updatedAt: 2021-04-03 00:40:00+09:00
 ---
 
 ## 목차
-이 아래의 목차는 되도록이면 순차적으로 보는 것을 추천한다.
+이 아래의 목차는 되도록이면 순차적으로 보는 것을 추천한다. 우선적으로 알아두면 좋은 사실은 아래의 기술들이 항상 매번 전부 사용되지는 않는다는 것이다. 그렇기 때문에 모든 것을 외울 필요는 없다.
+
+현직 개발자들도 모든 것을 외우지는 않는다. 필요하고, 자주 쓰는 것만을 우선적으로 외우는 것이 좋다.
 
 * **시작하기 전에**
   * [프로그래밍과 프로그래밍 언어](intro/1-what-is-programing.md)
@@ -49,16 +51,15 @@ updatedAt: 2021-04-03 00:40:00+09:00
       * [정비 - Visual Studio Code 사용하기](html/6-vscode-download.md)
       * [정비 - VSCode 추천 확장 프로그램](html/7-vscode-extension.md)
       * [굵기와 기울기 태그(b, strong, i, em)](html/text/3-bold-italic.md)
-      * [개행 태그(br)](html/text/4-br-tag.md)
+      * [개행 태그와 가로줄 태그(br, hr)](html/text/4-br-hr-tag.md)
       * [윗첨자와 아랫첨자 태그(sup, sub)](html/text/5-sup-and-sub.md)
       * [텍스트의 추가, 제외 태그(ins, del)](html/text/6-ins-and-del.md)
       * [취소선과 밑줄 태그(s, u)](html/text/7-line-tags.md)
-      * [인용 태그(q, blockquote)]() - 미작성
-      * [마크 태그(mark)]() - 미작성
-      * [스몰 태그(small)]() - 미작성
-      * [code 태그]() - 미작성
-      * [pre 태그]() - 미작성
-      * [가로줄 태그(hr)]() - 미작성
+      * [인용 태그(q, blockquote)](html/text/8-quote-tags.md)
+      * [하이라이트 태그(mark)]('html/text/9-mark-tag.md')
+      * [small 태그]('html/text/10-small-tag.md')
+      * [code, pre 태그]('html/text/11-code-pre-tag.md')
+      * [그 외의 태그들]() - 미작성
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
