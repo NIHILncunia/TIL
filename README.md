@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-03 16:50:00+09:00
+updatedAt: 2021-04-04 17:00:00+09:00
 ---
 
 # 개요
@@ -59,7 +59,8 @@ updatedAt: 2021-04-03 16:50:00+09:00
       * [하이라이트 태그(mark)]('html/text/9-mark-tag.md')
       * [small 태그]('html/text/10-small-tag.md')
       * [code, pre 태그]('html/text/11-code-pre-tag.md')
-      * [그 외의 태그들]() - 미작성
+    * [파일 경로]('html/10-file-path.md')
+    * [링크 태그(a)]('html/11-link-tag.md')
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
