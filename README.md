@@ -56,11 +56,11 @@ updatedAt: 2021-04-04 17:00:00+09:00
       * [텍스트의 추가, 제외 태그(ins, del)](html/text/6-ins-and-del.md)
       * [취소선과 밑줄 태그(s, u)](html/text/7-line-tags.md)
       * [인용 태그(q, blockquote)](html/text/8-quote-tags.md)
-      * [하이라이트 태그(mark)]('html/text/9-mark-tag.md')
-      * [small 태그]('html/text/10-small-tag.md')
-      * [code, pre 태그]('html/text/11-code-pre-tag.md')
-    * [파일 경로]('html/10-file-path.md')
-    * [링크 태그(a)]('html/11-link-tag.md')
+      * [하이라이트 태그(mark)](html/text/9-mark-tag.md)
+      * [small 태그](html/text/10-small-tag.md)
+      * [code, pre 태그](html/text/11-code-pre-tag.md)
+    * [파일 경로](html/10-file-path.md)
+    * [링크 태그(a)](html/11-link-tag.md)
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
