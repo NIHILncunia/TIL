@@ -65,8 +65,8 @@ updatedAt: 2021-04-05 17:23:00+09:00
       * [이미지 태그(img)](html/image/1-img-tag.md)
       * [심화 - 이미지맵 태그(map, area)](html/image/2-map-area-tag.md)
     * **목록 관련 태그**
-      * [순차 목록과 비순차 목록(ol, ul, li)](html/list/1-list-tags.md)
-      * [용어 설명 목록(dl, dt, dd)](html/list/2-description-list-tag.md)
+      * [순차 목록과 비순차 목록 태그(ol, ul, li)](html/list/1-list-tags.md)
+      * [용어 설명 목록 태그(dl, dt, dd)](html/list/2-description-list-tag.md)
     * 테이블 태그(table, thead, tbody, tfoot, tr, th, td) - 작성예정
     * **멀티미디어 관련 태그**
       * 준비중
