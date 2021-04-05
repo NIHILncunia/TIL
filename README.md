@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-04 17:00:00+09:00
+updatedAt: 2021-04-05 17:23:00+09:00
 ---
 
 # 개요
@@ -61,6 +61,17 @@ updatedAt: 2021-04-04 17:00:00+09:00
       * [code, pre 태그](html/text/11-code-pre-tag.md)
     * [파일 경로](html/10-file-path.md)
     * [링크 태그(a)](html/11-link-tag.md)
+    * **이미지 관련 태그**
+      * [이미지 태그(img)](html/image/1-img-tag.md)
+      * [심화 - 이미지맵 태그(map, area)](html/image/2-map-area-tag.md)
+    * **목록 관련 태그**
+      * [순차 목록과 비순차 목록(ol, ul, li)](html/list/1-list-tags.md)
+      * [용어 설명 목록(dl, dt, dd)](html/list/2-description-list-tag.md)
+    * 테이블 태그(table, thead, tbody, tfoot, tr, th, td) - 작성예정
+    * **멀티미디어 관련 태그**
+      * 준비중
+    * figure 태그 - 미작성
+      * figcaption 태그 - 미작성
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
