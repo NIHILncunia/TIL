@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-05 17:23:00+09:00
+updatedAt: 2021-04-06 09:29:00+09:00
 ---
 
 # 개요
@@ -59,6 +59,8 @@ updatedAt: 2021-04-05 17:23:00+09:00
       * [하이라이트 태그(mark)](html/text/9-mark-tag.md)
       * [small 태그](html/text/10-small-tag.md)
       * [code, pre 태그](html/text/11-code-pre-tag.md)
+      * abbr 태그 - 미작성
+      * 그 외의 텍스트 태그들 - 미작성
     * [파일 경로](html/10-file-path.md)
     * [링크 태그(a)](html/11-link-tag.md)
     * **이미지 관련 태그**
@@ -67,11 +69,44 @@ updatedAt: 2021-04-05 17:23:00+09:00
     * **목록 관련 태그**
       * [순차 목록과 비순차 목록 태그(ol, ul, li)](html/list/1-list-tags.md)
       * [용어 설명 목록 태그(dl, dt, dd)](html/list/2-description-list-tag.md)
-    * 테이블 태그(table, thead, tbody, tfoot, tr, th, td) - 작성예정
+    * **테이블 관련 태그**
+      * [테이블 태그(table, tr, th, td)](html/table/1-table-tags.md)
+      * **테이블 태그 심화**
+        * 테이블 태그 심화 1) thead, tbody, tfoot - 미작성
+        * 테이블 태그 심화 2) colgroup, col, caption - 미작성
+    * **폼 관련 태그**
+      * form 태그 - 미작성
+        * form 태그 심화 - 미작성
+      * input 태그 1) 기본적인 속성 - 미작성
+      * input 태그 2) 여러가지 타입 - 미작성
+      * input 태그 3) 데이터 검증 - 미작성
+      * textarea 태그 - 미작성
+      * button - 미작성
+      * select 태그 - 미작성
+      * fieldset - 미작성
+      * datalist - 미작성
     * **멀티미디어 관련 태그**
-      * 준비중
-    * figure 태그 - 미작성
-      * figcaption 태그 - 미작성
+      * 멀티미디어 태그들(audio, video, source) - 미작성
+      * iframe 태그 - 미작성
+    * figure, figcaption 태그 - 미작성
+    * **레이아웃 태그들**
+      * 레이아웃 태그 1) header, nav, main - 미작성
+      * 레이아웃 태그 2) aside, footer - 미작성
+      * 레이아웃 태그 3) article, section - 미작성
+    * 메타데이터 태그들(meta) - 미작성
+    * 요약 태그(details, summary) - 미작성
+    * **CSS 관련**
+      * style 속성 - 미작성
+      * style 태그 - 미작성
+      * link 태그 - 미작성
+    * **JS 관련**
+      * script 태그 - 미작성
+      * JS 이벤트와 관련된 속성들 - 미작성
+    * **HTML 심화**
+      * 커스텀 속성 사용하기 - 미작성
+      * 섹션(Section)과 아웃라인(Outline) - 미작성
+      * 웹표준에 대해 - 미작성
+      * 브라우저 지원 고려하기 - 미작성
 * **스타일 시트 언어**
   * 준비중
 * **프로그래밍 언어**
