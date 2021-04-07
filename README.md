@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-06 09:29:00+09:00
+updatedAt: 2021-04-07 13:27:00+09:00
 ---
 
 # 개요
@@ -59,7 +59,7 @@ updatedAt: 2021-04-06 09:29:00+09:00
       * [하이라이트 태그(mark)](html/text/9-mark-tag.md)
       * [small 태그](html/text/10-small-tag.md)
       * [code, pre 태그](html/text/11-code-pre-tag.md)
-      * abbr 태그 - 미작성
+      * [abbr 태그](html/text/12-abbr-tag.md)
       * 그 외의 텍스트 태그들 - 미작성
     * [파일 경로](html/10-file-path.md)
     * [링크 태그(a)](html/11-link-tag.md)
@@ -72,7 +72,7 @@ updatedAt: 2021-04-06 09:29:00+09:00
     * **테이블 관련 태그**
       * [테이블 태그(table, tr, th, td)](html/table/1-table-tags.md)
       * **테이블 태그 심화**
-        * 테이블 태그 심화 1) thead, tbody, tfoot - 미작성
+        * [테이블 태그 심화 1) thead, tbody, tfoot](html/table/2-table-hard-1.md)
         * 테이블 태그 심화 2) colgroup, col, caption - 미작성
     * **폼 관련 태그**
       * form 태그 - 미작성
