@@ -1,6 +1,6 @@
 ---
 createdAt: 2021-03-26 09:15:00+09:00
-updatedAt: 2021-04-07 15:39:00+09:00
+updatedAt: 2021-04-07 17:29:00+09:00
 ---
 
 # 개요
@@ -75,7 +75,7 @@ updatedAt: 2021-04-07 15:39:00+09:00
         * [테이블 태그 심화 1) thead, tbody, tfoot](html/table/2-table-hard-1.md)
         * [테이블 태그 심화 2) colgroup, col, caption](html/table/3-table-hard-2.md)
     * **폼 관련 태그**
-      * form 태그 - 미작성
+      * [form 태그](html/form/1-form-tag.md) - 작성예정
         * form 태그 심화 - 미작성
       * input 태그 1) 기본적인 속성 - 미작성
       * input 태그 2) 여러가지 타입 - 미작성
